@@ -1,0 +1,2 @@
+# easyranking
+case study project
